@@ -1,7 +1,7 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "054afba430fb267be690cd2d7ab386ad"
-build_time: [1536020586, 846496000]
+options: "f05a8803c79cbc11145bfa02059b8c2e"
+build_time: [1536021431, 524333000]
 inputs:
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Debuggable.swift": [1536019034, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Demangler.swift": [1536019034, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/SourceLocation.swift": [1536019034, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Debuggable.swift": [1536021382, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Demangler.swift": [1536021382, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/SourceLocation.swift": [1536021382, 0]
