@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "19999476f39b9c19df3a3d10ecf625e8"
+build_time: [1536020605, 58547000]
+inputs:
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataEncoder.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartError.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartParser.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPart.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPartConvertible.swift": [1536017391, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartSerializer.swift": [1536017391, 0]
