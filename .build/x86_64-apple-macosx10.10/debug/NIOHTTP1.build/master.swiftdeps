@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "d161421a2a4b41b8d404b95c1e0fcb69"
-build_time: [1536021442, 540809000]
+build_time: [1536022670, 570579000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPDecoder.swift": [1536021385, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPEncoder.swift": [1536021385, 0]

@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "d06c582a972b889c72b1c8813cce2430"
-build_time: [1536021449, 963242000]
+build_time: [1536022680, 351764000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [1536021386, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [1536021386, 0]

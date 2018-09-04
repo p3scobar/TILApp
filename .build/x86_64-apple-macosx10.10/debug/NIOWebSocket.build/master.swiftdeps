@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "50d258f776e7991d384164fa45004b72"
-build_time: [1536021446, 357755000]
+build_time: [1536022675, 909045000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/Base64.swift": [1536021385, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/SHA1.swift": [1536021385, 0]

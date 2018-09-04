@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "169cc2717d1c67bbd09a097098891b12"
+build_time: [1536022180, 975336000]
+inputs:
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [1536021382, 0]

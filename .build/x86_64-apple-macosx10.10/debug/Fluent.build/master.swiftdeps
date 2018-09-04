@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "4dcd509abf8a485bdd79fe103c0666ee"
-build_time: [1536021466, 274780000]
+build_time: [1536022700, 257930000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Cache/CacheEntry.swift": [1536021386, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Cache/KeyedCacheSupporting+Fluent.swift": [1536021386, 0]

@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "e13c4c53f3fa488eb0e18a6797bed659"
-build_time: [1536021449, 956298000]
+build_time: [1536022680, 344833000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Exports.swift": [1536021382, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/LogLevel.swift": [1536021382, 0]

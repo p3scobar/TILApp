@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "d1bd7e4999eadd8430326daa1b5c1630"
-build_time: [1536021483, 510458000]
+build_time: [1536022719, 294152000]
 inputs:
   "/Users/Hello/Desktop/TILApp/Sources/App/Models/Acronym.swift": [1536017613, 0]
   "/Users/Hello/Desktop/TILApp/Sources/App/app.swift": [1536017301, 0]

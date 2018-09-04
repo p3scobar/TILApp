@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "ef633460616165819755d74cb6d39c7f"
-build_time: [1536021442, 538678000]
+build_time: [1536022670, 570955000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/BitsError.swift": [1536021382, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Alphabet.swift": [1536021382, 0]

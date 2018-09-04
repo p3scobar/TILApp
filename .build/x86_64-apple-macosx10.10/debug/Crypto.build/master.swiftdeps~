@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "300e3c5d77c91e9846ec5a9ff2dc331c"
+build_time: [1536022195, 961482000]
+inputs:
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/BCrypt/BCryptDigest.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/Digest.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/DigestAlgorithm.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/HMAC.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSA.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAKey.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAPadding.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/CryptoRandom.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/CryptoError.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Deprecated.swift": [1536021383, 0]
+  "/Users/Hello/Desktop/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Exports.swift": [1536021383, 0]

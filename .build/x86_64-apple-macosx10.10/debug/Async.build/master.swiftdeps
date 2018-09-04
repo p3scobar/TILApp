@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "09219d0b45c43972a67c3f5f9f1d68e5"
-build_time: [1536021442, 539028000]
+build_time: [1536022670, 571540000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Async+NIO.swift": [1536021382, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/AsyncError.swift": [1536021382, 0]

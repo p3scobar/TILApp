@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "8a2c586886b83a2b965442134f216a65"
-build_time: [1536021462, 720860000]
+build_time: [1536022696, 112933000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/sql.git-2678105727451989607/Sources/SQL/Exports.swift": [1536021387, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/sql.git-2678105727451989607/Sources/SQL/SQLAlterTable.swift": [1536021387, 0]

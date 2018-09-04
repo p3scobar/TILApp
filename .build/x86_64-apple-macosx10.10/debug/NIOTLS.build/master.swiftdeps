@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "01c2735ac0f3213ab48b45dd03c3269b"
-build_time: [1536021442, 539451000]
+build_time: [1536022670, 570656000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1536021385, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOTLS/SNIHandler.swift": [1536021385, 0]

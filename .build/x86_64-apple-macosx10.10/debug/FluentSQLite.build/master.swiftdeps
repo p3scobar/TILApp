@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "6b798fdb665d8899296d63efe8088550"
-build_time: [1536021482, 327341000]
+build_time: [1536022718, 67440000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/fluent-sqlite.git--5503918280859119093/Sources/FluentSQLite/Exports.swift": [1536021388, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/fluent-sqlite.git--5503918280859119093/Sources/FluentSQLite/FluentSQLiteError.swift": [1536021388, 0]

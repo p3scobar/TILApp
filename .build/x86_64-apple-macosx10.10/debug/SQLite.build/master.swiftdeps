@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "48e7468c6826ba823796413334f60d37"
-build_time: [1536021479, 59499000]
+build_time: [1536022714, 108426000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/Codable/SQLiteDataDecoder.swift": [1536021382, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/Codable/SQLiteDataEncoder.swift": [1536021382, 0]

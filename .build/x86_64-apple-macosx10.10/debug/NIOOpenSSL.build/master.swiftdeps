@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "e516683dd5006051d253387c875b248c"
-build_time: [1536021444, 548355000]
+build_time: [1536022672, 890518000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/IdentityVerification.swift": [1536021387, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1536021387, 0]

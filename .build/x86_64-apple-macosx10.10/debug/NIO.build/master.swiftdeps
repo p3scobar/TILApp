@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "90bdb0b0256f9dcbbb3b937b3f7f65db"
-build_time: [1536021436, 221151000]
+build_time: [1536022663, 850305000]
 inputs:
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIO/AddressedEnvelope.swift": [1536021385, 0]
   "/Users/Hello/Desktop/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIO/BaseSocket.swift": [1536021385, 0]
