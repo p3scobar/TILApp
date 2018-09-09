@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "0ba39c115eb3f9b0b65668d8cd696a11"
-build_time: [1536022195, 491124000]
-inputs:
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Exports.swift": [1536021382, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/LogLevel.swift": [1536021382, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Logger.swift": [1536021382, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/PrintLogger.swift": [1536021382, 0]

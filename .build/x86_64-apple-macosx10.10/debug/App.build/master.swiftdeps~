@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "26cfc475eec9b6f8021e73433b55f65b"
-build_time: [1536022230, 213134000]
-inputs:
-  "/Users/Hello/Desktop/TILApp/Sources/App/Models/Acronym.swift": [1536017613, 0]
-  "/Users/Hello/Desktop/TILApp/Sources/App/app.swift": [1536017301, 0]
-  "/Users/Hello/Desktop/TILApp/Sources/App/boot.swift": [1536017301, 0]
-  "/Users/Hello/Desktop/TILApp/Sources/App/configure.swift": [1536017613, 0]
-  "/Users/Hello/Desktop/TILApp/Sources/App/routes.swift": [1536017613, 0]

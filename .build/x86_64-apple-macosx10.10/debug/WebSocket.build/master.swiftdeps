@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "6c995d9c35de22935597fa59e60790a5"
-build_time: [1536022696, 134987000]
-inputs:
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/Exports.swift": [1536021384, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Client.swift": [1536021384, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Server.swift": [1536021384, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket.swift": [1536021384, 0]
-  "/Users/Hello/Desktop/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocketHandler.swift": [1536021384, 0]
