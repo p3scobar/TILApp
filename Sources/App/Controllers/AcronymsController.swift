@@ -1,7 +1,7 @@
 
 
 import Vapor
-import FluentMySQL
+import FluentPostgreSQL
 
 struct AcronymsController: RouteCollection {
     
