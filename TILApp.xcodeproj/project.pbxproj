@@ -21,6 +21,8 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		CEB1F3A82151CA8400B49064 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1F3A72151CA8400B49064 /* User.swift */; };
+		CEB1F3AA2151CA9100B49064 /* UsersController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1F3A92151CA9100B49064 /* UsersController.swift */; };
 		OBJ_1082 /* AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_21 /* AppTests.swift */; };
 		OBJ_1084 /* App.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = "TILApp::App::Product" /* App.framework */; };
 		OBJ_1085 /* Vapor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = "Vapor::Vapor::Product" /* Vapor.framework */; };
@@ -5104,6 +5106,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CEB1F3A72151CA8400B49064 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		CEB1F3A92151CA9100B49064 /* UsersController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersController.swift; sourceTree = "<group>"; };
 		"Console::Command::Product" /* Command.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Command.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"Console::Console::Product" /* Console.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Console.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"Console::Logging::Product" /* Logging.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Logging.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -6756,6 +6760,7 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_12 /* Acronym.swift */,
+				CEB1F3A72151CA8400B49064 /* User.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -8985,6 +8990,7 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_10 /* AcronymsController.swift */,
+				CEB1F3A92151CA9100B49064 /* UsersController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -11752,6 +11758,8 @@
 				OBJ_950 /* boot.swift in Sources */,
 				OBJ_951 /* configure.swift in Sources */,
 				OBJ_952 /* routes.swift in Sources */,
+				CEB1F3AA2151CA9100B49064 /* UsersController.swift in Sources */,
+				CEB1F3A82151CA8400B49064 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
